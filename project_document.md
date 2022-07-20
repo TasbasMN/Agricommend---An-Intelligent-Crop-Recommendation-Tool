@@ -1,16 +1,10 @@
-# What to Produce in Turkey
+# Agricommend: An Intelligent Crop Recommendation Tool
  Samsung Innovation Campus Project
  
  
  <img src="https://github.com/TasbasMN/Agricommend---An-Intelligent-Crop-Recommendation-Tool/blob/main/images/E_GIF_02.gif" width=30% height=30%>
  
  [More information about SDG #2](https://sdgs.un.org/goals/goal2)
-
- 
-# Project Title & Overview
-Agricommend: A Machine Learning Based Crop Recommendation Tool
-
-Our aim is to train & deploy a model that can suggest which crops to grow in a specified agricultural area by integrating data from different domains such as geography, satellite imagery, soil conditions, and weather.
 
 
 # Background
@@ -60,57 +54,35 @@ Global Network Against Food Crises (GNAFC) is a humanitarian alliance, founded b
 <img src="https://github.com/TasbasMN/Agricommend---An-Intelligent-Crop-Recommendation-Tool/blob/main/images/drivers_detailed.png">
 
 
-
-
-
-
- 
-
- 
-
-
-
-
-
- 
-
-
  
 A copy of the full report can be found in this repository under name **"GRFC_2022.pdf"**. We must note that this report published by GNAFC predates the Russian invasion of Ukraine, so its dire effects on global food insecurity is not present in the data yet.
 
 
-
 # Key Objectives / Research Questions
-
 - Can we increase agricultural efficiency by utilizing machine learning models?
 - Can we help the farmers in low income areas by recommending them what crops to plant?
 
 
-# Work Arrangement
-
-
 
 # Approach To Work
-
 1. Finding datasets with preferred features
-2. Perform exploratory data analysis to see any trends in data
+2. Perform descriptive statistics & exploratory data analysis to see any trends in data
 3. Figuring out which model / models to use
 4. Implementing different models & assessing their performances
-
+5. Tuning the hyperparameters of the best model
 
 
 # Tentative Agenda
-
-~20-31 May 2022: Fleshing out the project with all details~
-
+20-31 May 2022: Fleshing out the project with all details~
 June & July 2022: Implementing the algorithm and getting results
-
-Late July 2022: Deploying the model on a webapp
-
+Late July 2022: Further increasing the performance of the model
 
 
 # Deliverables
-
 - An ML model trained on multi dimensional data to predict which crops to plant
-- A webapp to query for results & getting crop recommendations
+- A prototype webapp to query for results & getting crop recommendations
+
+# Future Work
+- Integrating plant hardiness zones data into the database
+- Integrating market values of the crops, directly from market makers using API's  
 
