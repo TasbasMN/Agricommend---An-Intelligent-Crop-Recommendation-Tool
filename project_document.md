@@ -86,3 +86,7 @@ Late July 2022: Further increasing the performance of the model
 - Integrating plant hardiness zones data into the database
 - Integrating market values of the crops, directly from market makers using API's  
 
+
+## Special Thanks
+<img src="https://github.com/TasbasMN/Agricommend---An-Intelligent-Crop-Recommendation-Tool/blob/main/images/banner.png">
+
