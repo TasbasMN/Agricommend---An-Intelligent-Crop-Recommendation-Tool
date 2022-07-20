@@ -1,4 +1,4 @@
- # Agricommend: A Machine Learning Based Crop Recommendation Tool
+ # Agricommend: An Intelligent Crop Recommendation Tool
  
 
 
@@ -9,11 +9,9 @@ Our aim is to train & deploy a model that can suggest which crops to grow in a s
 
 ## Project Members
 
-Ece Özkan - **@eceeozknn**
-
 Mehmed Nazif Taşbaş - **@tasbasmn**
 
-Meryem Mine Gündoğan - **@mmiine**
+
 
 
 ## Sponsors
@@ -21,5 +19,5 @@ Meryem Mine Gündoğan - **@mmiine**
 
 
 
-<img src="https://github.com/mmiine/What-to-Produce-in-Turkey/blob/main/images/banner.png">
+<img src="https://github.com/TasbasMN/Agricommend---An-Intelligent-Crop-Recommendation-Tool/blob/main/images/banner.png">
 
